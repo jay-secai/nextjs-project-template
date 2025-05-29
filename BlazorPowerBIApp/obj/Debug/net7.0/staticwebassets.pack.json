@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/project/sandbox/user-workspace/BlazorPowerBIApp/bin/Debug/net7.0/wwwroot/_framework/blazor.webassembly.js",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js"
+    },
+    {
+      "Id": "/project/sandbox/user-workspace/BlazorPowerBIApp/obj/Debug/net7.0/compressed/pj7yhy5dvk.gz",
+      "PackagePath": "staticwebassets/_framework/blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "/project/sandbox/user-workspace/BlazorPowerBIApp/wwwroot/index.html",
+      "PackagePath": "staticwebassets/index.html"
+    },
+    {
+      "Id": "/project/sandbox/user-workspace/BlazorPowerBIApp/wwwroot/js/download.js",
+      "PackagePath": "staticwebassets/js/download.js"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.BlazorPowerBIApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.BlazorPowerBIApp.props",
+      "PackagePath": "build\\BlazorPowerBIApp.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.BlazorPowerBIApp.props",
+      "PackagePath": "buildMultiTargeting\\BlazorPowerBIApp.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.BlazorPowerBIApp.props",
+      "PackagePath": "buildTransitive\\BlazorPowerBIApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
